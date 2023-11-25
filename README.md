@@ -9,4 +9,7 @@ pip install requests fake_useragent beautifulsoup4
 ```
 
 # Використання
-1.
+1.Клонуйте репозиторій:
+```
+git clone 
+```
